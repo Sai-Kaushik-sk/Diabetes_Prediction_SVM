@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Developed a machine learning model to predict whether a person is diabetic or non-diabetic using a Support Vector Machine (SVM), a supervised learning algorithm widely used for classification tasks. The model was implemented in Python, leveraging libraries such as pandas for data manipulation, NumPy for numerical computations, and scikit-learn for building and evaluating the model.
+Developed a machine learning model to predict whether a person is diabetic or non-diabetic using a Support Vector Machine (SVM), a supervised learning algorithm widely used for classification tasks. The model was implemented in Python using VS Code as the IDE, leveraging libraries such as pandas for data manipulation, NumPy for numerical computations, and scikit-learn for building and evaluating the model.
 
 ## At a glance:
 
