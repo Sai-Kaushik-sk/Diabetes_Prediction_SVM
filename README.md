@@ -17,7 +17,7 @@ Data: Has been collected from Kaggle
 1) Imported the dependencies
 2) Collection and analysis of the data
 3) Standardized the data
-4) Split the data into train and tes
+4) Split the data into train and test
 5) Trained the model
 6) Evaluate the model using accuracy score
 7) Making a predictive system
