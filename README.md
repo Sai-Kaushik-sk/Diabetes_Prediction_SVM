@@ -7,7 +7,9 @@ Developed a machine learning model to predict whether a person is diabetic or no
 ## At a glance:
 
 Objective: Build a model to predict if a patient is diabetic or non-diabetic.
+
 Tools to build the model: Built in python using libraries like Numpy, Pandas and Scikit learn
+
 Data: Has been collected from Kaggle 
 
 ## Tasks:
